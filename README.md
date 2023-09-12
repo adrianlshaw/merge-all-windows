@@ -1,7 +1,7 @@
 # Merge All Windows browser extension
 
 This is a browser extension for Microsoft Edge and Google Chrome. 
-When you click the button, it merges tabs in all windows into one window.
+When you click the button, it merges tabs in all windows into a single window.
 It essentially provides the same feature as the Merge All Windows feature in Safari.
 This is handy if you open many websites in many windows and you want
 to consolidate your workspaces.
