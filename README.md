@@ -1,4 +1,4 @@
-# Merge all windows
+# Merge All Windows browser extension for Microsoft Edge
 
 This is a browser extension for Microsoft Edge. 
 When you click the button, it merges tabs in all windows into one window.
