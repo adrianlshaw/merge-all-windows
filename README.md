@@ -6,6 +6,9 @@ It essentially provides the same feature as the Merge All Windows feature in Saf
 This is handy if you open many websites in many windows and you want
 to consolidate your workspaces.
 
+Unlike existing extensions,
+this one requires no special permissions and does not require your browser history.
+
 ## Install
 
 Within Microsoft Edge, navigate to `edge://extensions`. 
